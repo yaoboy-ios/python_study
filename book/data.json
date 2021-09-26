@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "user_name": "admin",
+      "user_pwd": "admin",
+      "level": 0,
+      "info": "",
+      "status": 0
+    },
+    {
+      "user_name": "xiao",
+      "user_pwd": "123",
+      "level": 1,
+      "info": "",
+      "status": 0
+    },
+    {
+      "user_name": "xiaoming",
+      "user_pwd": "123",
+      "level": 2,
+      "info": "",
+      "status": 0
+    },
+    {
+      "user_name": "xiaoshushua",
+      "user_pwd": "123",
+      "level": 1,
+      "info": "\u4eba\u5458\u79bb\u804c",
+      "status": 9
+    },
+    {
+      "user_name": "haha",
+      "user_pwd": "123",
+      "level": 3,
+      "info": "\u79bb\u804c",
+      "status": 9
+    },
+    {
+      "user_name": "ha",
+      "user_pwd": "123",
+      "level": 3,
+      "info": "",
+      "status": 0
+    },
+    {
+      "user_name": "xiaohong",
+      "user_pwd": "123",
+      "level": 3,
+      "info": "",
+      "status": 0
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "book_name": "\u5510\u8bd7\u5b8b\u8bcd\u4e09\u767e\u9996",
+      "price": "30",
+      "publisher": "\u6e05\u534e\u51fa\u7248\u793e",
+      "classify": "\u6587\u5b66"
+    },
+    {
+      "id": 2,
+      "book_name": "\u8bcd\u5178",
+      "price": "100",
+      "publisher": "\u4ea4\u5927\u51fa\u7248\u793e",
+      "classify": "\u6587\u5b66"
+    },
+    {
+      "id": 4,
+      "book_name": "\u54c8\u54c8",
+      "price": "23",
+      "publisher": "\u6253\u6253\u5362\u514b\u9ebb\u8fa3",
+      "classify": "\u6587\u5b66"
+    },
+    {
+      "id": 5,
+      "book_name": "\u94a2\u7434\u66f2",
+      "price": "89",
+      "publisher": "\u897f\u5b89\u51fa\u7248\u793e",
+      "classify": "\u97f3\u4e50"
+    },
+    {
+      "id": 5,
+      "book_name": "\u827a\u672f\u9274\u8d4f",
+      "price": "128",
+      "publisher": "\u5317\u4eac\u51fa\u7248\u793e",
+      "classify": "\u827a\u672f"
+    }
+  ],
+  "book_classify": [
+    "\u6587\u5b66",
+    "\u54f2\u5b66",
+    "\u827a\u672f",
+    "\u97f3\u4e50",
+    "\u7269\u7406"
+  ]
+}
